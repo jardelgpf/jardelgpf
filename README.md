@@ -3,7 +3,7 @@
 ```ts
 const Jardelgpf = {
   nome: "Jardel Henrique Thom",
-  idade: 25,
+  idade: 26,
   localização: "Santa Catarina, Brazil",
   linguagens: ["TypeScript", "Dart"],
   frameworks: ["React", "Next.js", "Flutter"],
